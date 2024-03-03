@@ -64,14 +64,14 @@ To clone this repository to your local machine using the terminal, follow these 
    - Use the `git clone` command followed by the URL of this GitHub repository.
    - Example:
      ```
-     git clone https://github.com/your-username/your-repository.git
+     git clone https://github.com/avonwillingh/MetaHeuristics.git
      ```
 
 4. **Access the Cloned Repository:**
    - Once the cloning process is complete, navigate into the cloned directory using the `cd` command.
    - Example:
      ```
-     cd your-repository
+     cd MetaHeuristics
      ```
 
 Now you have successfully cloned the repository to your local machine, and you can use the test suite and code as needed.
