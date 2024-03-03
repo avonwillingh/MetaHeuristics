@@ -76,3 +76,20 @@ To clone this repository to your local machine using the terminal, follow these 
 
 Now you have successfully cloned the repository to your local machine, and you can use the test suite and code as needed.
 
+**Running the Test Suite from Terminal:**
+
+To execute the test suite from the terminal, follow these steps:
+
+1. **Ensure Execution Permissions:**
+   - Before running the test suite script, ensure that you have execution permissions. You can do this by running the following command:
+     ```
+     chmod +x run_tests.sh
+     ```
+
+2. **Run the Test Suite:**
+   - Once execution permissions are granted, execute the test suite script by running:
+     ```
+     ./run_tests.sh
+     ```
+
+This will initiate the test suite, executing the test cases against your implementation of the simulated annealing algorithm. Any errors or failures will be reported accordingly.
