@@ -44,3 +44,35 @@ def simulated_annealing(filename):
 
 **Note:**
 Ensure that the `simulated_annealing(filename)` function adheres to the specified input and output requirements. The function should return only an integer representing the solution to the problem instance specified in the CSV file.
+
+
+**Cloning the Repository from Terminal:**
+
+To clone this repository to your local machine using the terminal, follow these steps:
+
+1. **Open Terminal:**
+   - Open the terminal on your computer.
+
+2. **Navigate to Desired Directory:**
+   - Use the `cd` command to navigate to the directory where you want to clone the repository.
+   - Example:
+     ```
+     cd path/to/desired/directory
+     ```
+
+3. **Clone the Repository:**
+   - Use the `git clone` command followed by the URL of this GitHub repository.
+   - Example:
+     ```
+     git clone https://github.com/your-username/your-repository.git
+     ```
+
+4. **Access the Cloned Repository:**
+   - Once the cloning process is complete, navigate into the cloned directory using the `cd` command.
+   - Example:
+     ```
+     cd your-repository
+     ```
+
+Now you have successfully cloned the repository to your local machine, and you can use the test suite and code as needed.
+
